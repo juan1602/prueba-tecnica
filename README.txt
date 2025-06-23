@@ -51,7 +51,7 @@ Desarrollado desde cero como parte de la prueba técnica para desarrollador fron
 ## se subio el sitio a internet con esta url
 
 https://pruebanutresa.great-site.net/
-
+Se utilizo infinityfree para subirlo a internet
 ---
 
 
