@@ -48,6 +48,12 @@ Desarrollado desde cero como parte de la prueba técnica para desarrollador fron
 - ✔️ Repositorio Git subido: https://github.com/juan1602/prueba-tecnica
 
 ---
+## se subio el sitio a internet con esta url
+
+https://pruebanutresa.great-site.net/
+
+---
+
 
 ## 🧑‍💻 AUTOR
 
